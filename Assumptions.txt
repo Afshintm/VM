@@ -1,0 +1,6 @@
+The Machine just accepts coins and Credit Card payment. No bank note is accepted.
+As CreditCard payment needs an external Gateway I just developed the frontend part
+The maximum amount paid in each transaction is $10.Any more coins inserted then $10 will be paid back immidiately.
+and the Machine is full of 5cents, 10cents, 20cents, 50cents, $1 and $2 coins to pay the changes back. 
+If your have not paid any money no selection will be available for you.
+
